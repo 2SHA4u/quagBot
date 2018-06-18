@@ -1,0 +1,24 @@
+Quagmire1421 command guide
+------------------------------
+General Commands:
+!echo (message)
+The echo command will have the bot repeat what the user sent before deleting the message
+------------------------------
+Voice Commands:
+!song
+Will play whatever song is currently chosen by the admin
+!bubble
+Plays the bubble shooter sound effect
+!leave
+The bot will leave the current voice channel it is in
+!soundcloud
+Plays a really good song from a ceratin soundcloud
+!fix
+This command will attempt to fix a broken voice bot, likely due to spam
+------------------------------
+Big Gay game:
+The Big Gay is an illness that can only afflict one person in the discord at a time.
+!bigGay
+Displays the current host of the Big Gay
+!giveGay (username, not nickname)
+Give the Big Gay to another person if you yourself have the Big Gay at the time
